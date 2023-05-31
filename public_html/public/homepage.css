@@ -1,0 +1,663 @@
+/*
+	@name homepage
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__homepage {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_11 {
+	top: 61px;
+	left: -5px;
+	width: 1445px;
+	height: 272px;
+	background:rgba(217,217,217,1);
+}
+
+#footer_blog_post {
+	top: 828px;
+	left: 1px;
+	width: 1440px;
+	height: 196px;
+}
+
+#background {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 196px;
+	background:rgba(242,242,242,1);
+}
+
+#group_3 {
+	top: 161px;
+	left: 1047px;
+	width: 371px;
+	height: 20px;
+}
+
+#copyright {
+	top: 0px;
+	left: -2px;
+	width: 269px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 19.6875px;
+	color:#000000;
+}
+
+
+#link {
+	top: 0px;
+	left: 266px;
+	width: 115px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 19.6875px;
+	color:#000000;
+}
+
+
+#divider {
+	top: 15.47px;
+	left: 720px;
+	width: 0px;
+	height: 165.05px;
+}
+
+#links_right {
+	top: 24px;
+	left: 890px;
+	width: 90.26px;
+	height: 133.05px;
+}
+
+#link_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 106px;
+	height: 31.05px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 19.6875px;
+	color:#000000;
+}
+
+
+#link_ek2 {
+	top: 27px;
+	left: 2px;
+	width: 104.26px;
+	height: 31.05px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 19.6875px;
+	color:#000000;
+}
+
+
+#_link_ek3 {
+	top: 54px;
+	left: 5px;
+	width: 104.26px;
+	height: 31.05px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 19.6875px;
+	color:#000000;
+}
+
+
+#_link_ek4 {
+	top: 83px;
+	left: 5px;
+	width: 104.26px;
+	height: 31.05px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 19.6875px;
+	color:#000000;
+}
+
+
+#_link_ek5 {
+	top: 112px;
+	left: 5px;
+	width: 104.26px;
+	height: 31.05px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 19.6875px;
+	color:#000000;
+}
+
+#blog_post {
+	top: 35px;
+	left: 290px;
+	width: 370px;
+	height: 100.75px;
+}
+
+#summary {
+	top: 41px;
+	left: 0px;
+	width: 389px;
+	height: 70px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 19.6875px;
+	color:#000000;
+}
+
+
+#subtitle {
+	top: 0px;
+	left: 0px;
+	width: 101px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 19.6875px;
+	color:#000000;
+}
+
+
+#homerepairlogowithtransparentbg_1 {
+	top: 19px;
+	left: 34px;
+	width: 196px;
+	height: 140px;
+}
+
+
+#address_jalan_teknologi_5__taman_teknologi_malaysia__57000_kuala_lumpur__wilayah_persekutuan_kuala_lumpur {
+	top: 22px;
+	left: 1077px;
+	width: 307px;
+	height: 110px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+#naviation_left {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 64px;
+}
+
+#background_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 64px;
+	background:rgba(255,255,255,1);
+}
+
+#button_primary {
+	top: 14px;
+	left: 1280px;
+	width: 140px;
+	height: 40px;
+}
+
+#background_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 140px;
+	height: 40px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(0,0,0,1);
+}
+
+
+#text {
+	top: 9px;
+	left: 22px;
+	width: 105px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#group_8 {
+	top: 23px;
+	left: 453px;
+	width: 533px;
+	height: 24px;
+}
+
+#__ {
+	top: 0px;
+	left: 262px;
+	width: 28px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#___ek1 {
+	top: 0px;
+	left: 415px;
+	width: 28px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#___ek2 {
+	top: 0px;
+	left: 107px;
+	width: 28px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_7 {
+	top: 2px;
+	left: 0px;
+	width: 533px;
+	height: 22px;
+}
+
+#link_ek8 {
+	top: 0px;
+	left: 461px;
+	width: 95px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_link_ek9 {
+	top: 0px;
+	left: 153px;
+	width: 91px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_link_ek10 {
+	top: 0px;
+	left: 308px;
+	width: 89px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#link_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 105px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#homerepairlogowithtransparentbg_1_ek1 {
+	top: 3px;
+	left: 26px;
+	width: 97px;
+	height: 59px;
+}
+
+#group_6 {
+	top: 166px;
+	left: 138px;
+	width: 1126px;
+	height: 96px;
+}
+
+#image_2 {
+	top: 6px;
+	left: 345px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#image_3 {
+	top: 6px;
+	left: 690px;
+	width: 83.48px;
+	height: 80px;
+}
+
+#group_4 {
+	top: 0px;
+	left: 1038px;
+	width: 88px;
+	height: 96px;
+}
+
+#rectangle_4 {
+	top: 16px;
+	left: 4px;
+	width: 80px;
+	height: 80px;
+	-ms-border-radius: 60px;
+	-o-border-radius: 60px;
+	-moz-border-radius: 60px;
+	-webkit-border-radius: 60px;
+	border-radius: 60px;
+	background:rgba(217,217,217,1);
+}
+
+
+#__pngtree_ide_template_logo_real_estat_5268084_1 {
+	top: 0px;
+	left: 0px;
+	width: 88px;
+	height: 91.72px;
+}
+
+#group_5 {
+	top: 6px;
+	left: 0px;
+	width: 80px;
+	height: 80px;
+}
+
+#image_1 {
+	top: 0px;
+	left: 0px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#why_fix_it_yourself__leave_it_to_the_pros__book_now__and_we_will_be_there_ {
+	top: 356px;
+	left: 501px;
+	width: 436px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	line-height: 33.75px;
+	color:#000000;
+}
+
+
+#our_services {
+	top: 108px;
+	left: 615px;
+	width: 218px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	line-height: 33.75px;
+	color:#000000;
+}
+
+
+#cleaning {
+	top: 272px;
+	left: 73px;
+	width: 218px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	line-height: 33.75px;
+	color:#000000;
+}
+
+
+#repairing {
+	top: 272px;
+	left: 418px;
+	width: 218px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	line-height: 33.75px;
+	color:#000000;
+}
+
+
+#interior_design {
+	top: 272px;
+	left: 763px;
+	width: 218px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	line-height: 33.75px;
+	color:#000000;
+}
+
+
+#exterior_design {
+	top: 272px;
+	left: 1108px;
+	width: 218px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	line-height: 33.75px;
+	color:#000000;
+}
+
+#cta_form {
+	top: 475px;
+	left: 1px;
+	width: 1440px;
+	height: 368px;
+}
+
+#background_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 368px;
+	background:rgba(242,242,242,1);
+}
+
+#button_primary_ek1 {
+	top: 235.83px;
+	left: 540px;
+	width: 360px;
+	height: 41.46px;
+}
+
+#background_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 41.46px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(0,0,0,1);
+}
+
+
+#text_ek1 {
+	top: 10px;
+	left: 22px;
+	width: 325px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#title {
+	top: 77.75px;
+	left: 506px;
+	width: 437px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: center;
+	line-height: 28.125px;
+	color:#000000;
+}
+
+#input {
+	top: 126.99px;
+	left: 540px;
+	width: 360px;
+	height: 41.96px;
+}
+
+#input_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 362px;
+	height: 43.46px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#placeholder {
+	top: 13px;
+	left: 25px;
+	width: 74px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 28.125px;
+	color:#000000;
+}
+
+#input_ek2 {
+	top: 178.82px;
+	left: 540px;
+	width: 360px;
+	height: 41.46px;
+}
+
+#input_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 362px;
+	height: 43.46px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#placeholder_ek1 {
+	top: 12px;
+	left: 25px;
+	width: 113px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 28.125px;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

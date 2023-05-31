@@ -1,0 +1,248 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.image-26-icon,
+.image-27-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-26-icon {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 263px;
+  opacity: 0.5;
+}
+.image-27-icon {
+  top: 76px;
+  left: 123px;
+  border-radius: var(--br-md);
+  width: 80px;
+  height: 80px;
+}
+.at-home-repair-we-clean-up-an,
+.home-repair-offers-professiona {
+  position: absolute;
+  top: 55px;
+  left: 332px;
+  font-size: var(--font-size-base);
+  display: flex;
+  align-items: center;
+  width: 804px;
+  height: 151px;
+}
+.at-home-repair-we-clean-up-an {
+  top: 328px;
+  left: 133px;
+  font-size: var(--font-size-4xs);
+  width: 456px;
+  height: 108px;
+}
+.image-28-icon {
+  top: 277px;
+  left: 822px;
+  border-radius: var(--br-2xs);
+  width: 400px;
+  height: 210px;
+}
+.image-28-icon,
+.image-30-icon,
+.image-31-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-30-icon {
+  top: 513px;
+  left: 1px;
+  width: 1439px;
+  height: 263px;
+  opacity: 0.5;
+}
+.image-31-icon {
+  top: 605px;
+  left: 123px;
+  border-radius: var(--br-xl);
+  width: 80px;
+  height: 80px;
+}
+.home-repair-offers-professiona1 {
+  position: absolute;
+  top: 569px;
+  left: 319px;
+  font-size: var(--font-size-base);
+  display: flex;
+  align-items: center;
+  width: 804px;
+  height: 151px;
+}
+.image-32-icon,
+.image-33-icon {
+  position: absolute;
+  top: 797px;
+  left: 761px;
+  border-radius: var(--br-2xs);
+  width: 620px;
+  height: 234px;
+  object-fit: cover;
+}
+.image-33-icon {
+  top: 1057px;
+  left: 123px;
+  width: 456px;
+  height: 174px;
+}
+.at-the-home {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.fixture-or-fan {
+  margin: 0;
+}
+.at-the-home-repair-our-electr,
+.our-craftspeople-are-available {
+  position: absolute;
+  top: 850px;
+  left: 91px;
+  display: inline-block;
+}
+.our-craftspeople-are-available {
+  top: 1100px;
+  left: 750px;
+}
+.image-34-icon,
+.image-35-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-34-icon {
+  top: 1257px;
+  left: 0;
+  width: 1439px;
+  height: 263px;
+  opacity: 0.5;
+}
+.image-35-icon {
+  top: 1349px;
+  left: 122px;
+  border-radius: var(--br-lg);
+  width: 83.48px;
+  height: 80px;
+}
+.home-repair-offers-professiona2 {
+  position: absolute;
+  top: 1313px;
+  left: 312px;
+  font-size: var(--font-size-base);
+  display: flex;
+  align-items: center;
+  width: 804px;
+  height: 151px;
+}
+.our-craftspeople-at-handyman-c,
+.we-offer-all-type-of-upholster {
+  position: absolute;
+  top: 1593px;
+  left: 74px;
+  display: inline-block;
+}
+.we-offer-all-type-of-upholster {
+  top: 1854px;
+  left: 777px;
+  white-space: pre-wrap;
+}
+.image-36-icon,
+.image-37-icon,
+.image-38-icon {
+  position: absolute;
+  top: 1563px;
+  left: 821px;
+  width: 451px;
+  height: 203px;
+  object-fit: cover;
+}
+.image-37-icon,
+.image-38-icon {
+  top: 1790px;
+  left: 106px;
+  width: 478px;
+  height: 195px;
+}
+.image-38-icon {
+  top: 2007px;
+  left: 0;
+  width: 1441px;
+  height: 263px;
+  opacity: 0.5;
+}
+.rectangle-div {
+  position: absolute;
+  top: 16px;
+  left: 4px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-300);
+  width: 80px;
+  height: 80px;
+}
+.pngtreeide-template-logo-real {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 96px;
+  height: 99.72px;
+  object-fit: cover;
+}
+.group-div {
+  position: absolute;
+  top: 2068px;
+  left: 123px;
+  width: 88px;
+  height: 96px;
+}
+.home-repair-offers-professiona3 {
+  position: absolute;
+  top: 2068px;
+  left: 313px;
+  font-size: var(--font-size-base);
+  display: flex;
+  align-items: center;
+  width: 804px;
+  height: 151px;
+}
+.our-work-is-performed-by-exper,
+.youd-be-surprised-at-how-much {
+  position: absolute;
+  top: 2360px;
+  left: 77px;
+  display: inline-block;
+}
+.youd-be-surprised-at-how-much {
+  top: 2596px;
+  left: 789px;
+}
+.image-39-icon,
+.image-40-icon {
+  position: absolute;
+  top: 2297px;
+  left: 783px;
+  width: 522px;
+  height: 231px;
+  object-fit: cover;
+}
+.image-40-icon {
+  top: 2528px;
+  left: 117px;
+  width: 446px;
+  height: 212px;
+}
+.frame-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2740px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

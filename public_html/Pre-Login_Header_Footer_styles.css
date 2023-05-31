@@ -1,0 +1,103 @@
+/* display: flex;
+flex-direction: row; */
+
+.header {
+	/* border-width: 0.1px;
+	border-style: solid; */
+	border-bottom: 0.1px solid rgba(73, 20, 20, 0.753);
+	height: 140px;
+	width: 100%;
+	justify-content: space-between;
+	align-items: stretch;
+	color: rgba(73, 20, 20, 0.753);
+}
+
+.flexbox {
+	display: flex;
+	flex-direction: row;
+}
+
+.header_left_section {
+	/* width: 300px; */
+	padding: 10px;
+	margin: 0px 50px;
+}
+
+/* .home_repair_logo {
+	/* border-width: 0.1px;
+	border-style: solid; */
+	/* background-color: pink; 
+
+} */
+.header_middle_section {
+	/* border-width: 0.1px;
+	border-style: solid; */
+	flex: 2;
+	margin: 0px 40px;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 130%;
+	font-weight: 500;
+	max-width: 800px;
+}
+
+.nav_link_component, .login_component {
+	margin: 0px 30px;
+	/* background-color: pink; */
+}
+
+.flexbox.header_right_section {
+	margin: 0px 40px;
+	width: 600px;
+	justify-content: end;
+	align-items: center;
+}
+
+
+.button {
+	padding: 20px 30px;
+	font-size: 110%;
+	background-color: rgba(255, 255, 255, 0);
+	border-width: 0.1px;
+	border-radius: 5px;
+	border-color: rgba(73, 20, 20, 0.753);
+}
+
+.profile_logo {
+	border-width: 0.1px;
+	border-style: solid;
+	border-color: grey;
+	border-radius: 50px;
+}
+
+.footer {
+	padding-top: 20px;
+	/* background-color: antiquewhite; */
+	color: rgba(73, 20, 20, 0.753);
+	border-top: 0.1px solid rgba(73, 20, 20, 0.753);
+}
+
+.footer .subtitle {
+	font-size: 130%;
+	font-weight: 600;
+}
+
+.footer .main_title {
+	font-size: 170%;
+	font-weight: 700;
+	margin: 20px;
+}
+
+.footer_nav {
+	justify-content: center;
+}
+
+.footer_nav_link {
+	margin: 20px;
+	font-size: 120%;
+	font-weight: 600;
+}
+
+.footer_description {
+	margin: 30px;
+}

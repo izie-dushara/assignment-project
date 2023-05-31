@@ -1,0 +1,30 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-ranchers: Ranchers;
+
+  /* font sizes */
+  --font-size-4xs: 15px;
+  --font-size-3xs: 16px;
+  --font-size-2xs: 18px;
+  --font-size-xs: 20px;
+  --font-size-sm: 24px;
+  --font-size-base: 32px;
+  --font-size-lg: 36px;
+  --font-size-xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #f0f0f0;
+  --color-gray-200: #ececec;
+  --color-gray-300: #d9d9d9;
+
+  /* border radiuses */
+  --br-2xs: 6px;
+  --br-xs: 7px;
+  --br-sm: 60px;
+  --br-md: 203px;
+  --br-lg: 205px;
+  --br-xl: 366.5px;
+}

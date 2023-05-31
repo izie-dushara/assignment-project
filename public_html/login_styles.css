@@ -1,0 +1,171 @@
+body {
+	margin: 0;
+	font-family: Arial;
+}
+
+a {
+	text-decoration: none;
+	color: rgba(73, 20, 20, 0.753);
+}
+
+.flex {
+	display: flex;
+}
+
+.vertical_flex {
+	display: flex;
+	flex-direction: column;
+}
+
+.main {
+	/* border: 1px solid black; */
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-image: url(images/housepic.jpg) ;
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	background-size: auto;
+	width: auto;
+}
+
+.login_container {
+	margin: auto;
+	width: 30%;
+	align-items: center;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	/* border: 0.1px solid black; */
+	border-radius: 10px;
+	background-color: white;
+	opacity: 0.90;
+}
+
+
+.welcome {
+	font-size: 150%;
+	font-weight: 500;
+	/* background-color: pink; */
+	align-self: center;
+
+}
+
+.input_container {
+	width: auto;
+	/* border: 1px solid black; */
+	padding: 20px;
+	justify-content: space-between;
+	
+}
+
+
+.input_label {
+	font-size: 130%;
+}
+
+.input_layer {
+	width: auto;
+}
+.input_box {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+input {
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 0.5px solid gray;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+::placeholder {
+	font-size: 120%;
+}
+
+.forgot {
+	margin-left: 150px;
+	padding: 10px;
+}
+
+.link {
+	color: rgb(83, 164, 231);
+
+	padding-top: 1px;
+	font-size: 90%;
+
+}
+
+button {
+	font-size: 110%;
+	background-color: rgba(255, 255, 255, 0);
+	border-width: 0.1px;
+	border-radius: 5px;
+	border-color: rgba(73, 20, 20, 0.753);
+	padding-top: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 15px;
+	margin: 15px;
+}
+
+.button, .register{
+	justify-content: center;
+}
+
+/* .flexbox.button {
+	margin-bottom: 10px;
+
+	
+} */
+
+.register_container {
+	margin: auto;
+	width: auto;
+	align-items: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-radius: 10px;
+	background-color: white;
+	opacity: 0.90;
+	max-width: 900px;
+}
+
+.profile_main {
+	border: 1px solid black;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 50%;
+	justify-self: center;
+	margin: auto;
+	border-radius: 10px;
+}
+
+.second_nav {
+	justify-content: center;
+	margin: 20px;
+	font-size: 120%;
+}
+
+.second_nav_link {
+	border: 1px solid black;
+	padding: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	border-radius: 10px;
+
+}
+
+.profile_container {
+	justify-content: space-between; 
+	margin-left: 150px; 
+	margin-right: 150px;
+}
+
+.text_align {
+	text-align: center;
+	font-size: 120%
+
+}
